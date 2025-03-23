@@ -4,7 +4,7 @@ This is a simple **Pokémon Search App** built using **React.js** and **Tailwind
 
 ---
 ## Features ✨
-- Fetches and displays **100 Pokémon** from the PokéAPI.
+- Fetches and displays **100(according to my given limit) Pokémon** from the PokéAPI.
 - **Search functionality** to filter Pokémon by name.
 - **Displays essential stats** such as type, height, weight, speed, attack, experience, and abilities.
 - **Responsive design** with Tailwind CSS.
